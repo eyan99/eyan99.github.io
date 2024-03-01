@@ -21,14 +21,14 @@ repository               : "eyan99/eyan99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "E:\Edmond Yan_Photo.jpg"
-  name             : "Edmond Yan"
+  avatar           : "Edmond Yan_Photo.jpg"
+  name             : # name
   pronouns         : # pronouns  
   bio              : # Bio
   location         : # location
   employer         : # university
   uri              : # URL
-  email            : "edmondyan0820@gmail.com" 
+  email            : # URL
 
   # Academic websites
   arxiv            : # URL
